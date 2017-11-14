@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Final_Project_Campfm01
 {
-    public partial class frmMain : Form
+    public partial class SavingsPage : Form
     {
-        public frmMain()
+        public SavingsPage()
         {
             InitializeComponent();
         }
